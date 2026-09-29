@@ -1,0 +1,37 @@
+# Library Management System
+
+## Problem Statement
+
+Libraries manage many books and need a simple way to keep track of their records. Managing book information manually can make it difficult to add new books, search for a particular book, view available records, and remove outdated records.
+
+The Library Management System provides a simple Python-based solution for managing basic book records. It allows the user to add, view, search, and delete books through a menu-driven interface.
+
+## Scope
+
+The project focuses on basic library book management. Each book record contains a book ID, title, author, category, and publication year. The records are stored in a JSON file so that the information can be accessed when the program is used again.
+
+## Target Users
+
+* Students learning Python programming
+* Teachers demonstrating basic file handling and data management
+* Small library-management demonstrations
+* Beginners developing their first Python project
+
+## Main Features
+
+1. Add a new book
+2. View all books
+3. Search for a book using its ID
+4. Delete a book record
+5. Store book records in JSON format
+6. Validate basic user input
+7. Display library information in a simple format
+8. Run automated tests for important operations
+
+## Technologies Used
+
+The project is developed using Python 3 and uses the standard Python library. JSON is used for storing book records. No external Python packages are required.
+
+## Expected Outcome
+
+The expected outcome is a working command-line Library Management System that demonstrates basic Python programming concepts while providing useful operations for managing book records.
